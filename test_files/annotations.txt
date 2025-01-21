@@ -1,0 +1,4 @@
+chrom	start	end	type
+chr1	1000	5000	exon
+chr1	6000	10000	intron
+chr2	2000	7000	exon

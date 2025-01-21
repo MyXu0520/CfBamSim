@@ -1,0 +1,5 @@
+"filename"	"category"
+"SRR13404371.bam"	"normal"
+"SRR13404372.bam"	"normal"
+"SRR12764669.bam"	"diseased"
+"SRR12764670.bam"	"diseased"
